@@ -1,0 +1,16 @@
+x, y = gets.split.map(&:to_i)
+
+a = false
+
+(0..x).each do |i|
+  (0..x-i).each do |j|
+    if 2 * i + 4 * j == y
+      a = true
+      break
+    end
+  end
+end
+
+
+
+puts a ? "Yes": "No"
