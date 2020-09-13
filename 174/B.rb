@@ -11,3 +11,6 @@ n.each do |i, k|
 end
 
 puts count
+
+
+

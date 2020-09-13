@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 a = gets.to_i
 b = gets.split.map(&:to_i).sort.reverse
 c = 0

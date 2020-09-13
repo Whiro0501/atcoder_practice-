@@ -1,0 +1,31 @@
+h1{
+  color: red;
+}
+
+
+p {
+  color: green;
+  font-size: 40px;
+  margin: auto;
+}
+
+.test{
+  color: aqua;
+}
+
+#test {
+  color:orange;
+  background-color: blueviolet;
+  border: solid;
+}
+
+.border {
+  border: solid;
+  border-color: blue;
+  margin-top: 10px;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: center;
+}
+
